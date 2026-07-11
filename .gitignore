@@ -1,0 +1,30 @@
+# Build folders
+/build/
+/Debug/
+/Release/
+
+# STM32CubeIDE
+.metadata/
+.settings/
+.project
+.cproject
+.mxproject
+
+# Object and binary files
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
