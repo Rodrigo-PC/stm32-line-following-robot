@@ -53,6 +53,10 @@ The system combines sensor reading, PWM motor control, ADC-based speed adjustmen
 | USART TX | PB6 |
 | User button | PA0 |
 
+## Hardware Setup
+
+![Hardware setup](image/setup.jpeg)
+
 ## Operating Modes
 
 The robot can work in two main modes:
