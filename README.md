@@ -55,7 +55,7 @@ The system combines sensor reading, PWM motor control, ADC-based speed adjustmen
 
 ## Hardware Setup
 
-![Hardware setup](image/setup.jpeg)
+![Hardware setup](setup.jpeg)
 
 ## Operating Modes
 
